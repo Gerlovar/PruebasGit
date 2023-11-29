@@ -1,3 +1,6 @@
-texto genérico de pruebas jsjs
-más tarde juego xDxD
-También debo borrar lo de arriba
+Este es un "html"
+Pagina prueba
+
+body 
+
+footer
