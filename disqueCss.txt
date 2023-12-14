@@ -1,2 +1,3 @@
 imagine que cambia el color del titulo
 color titulo: azul
+Color al footer: jsjs
