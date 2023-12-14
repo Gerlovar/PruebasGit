@@ -1,3 +1,5 @@
 imagine que cambia el color del titulo
+
 Cambio color al body: rojo
 color titulo: azul
+Color al footer: jsjs
